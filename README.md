@@ -32,6 +32,8 @@
 $ npm install
 ```
 
+## Create email credentials on ethereal and set on .env
+
 ## Running the app
 
 ```bash
